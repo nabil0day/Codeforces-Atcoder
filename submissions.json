@@ -1,4 +1,20 @@
 {
+  "AC18466916": {
+    "contest_id": "abc181",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc181\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trapezoid Sum",
+    "problem_url": "https://atcoder.jp/contests/abc181/tasks/abc181_b",
+    "submission_id": "AC18466916",
+    "submission_url": "https://atcoder.jp/contests/abc181/submissions/18466916",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/28/2020 19:18"
+  },
   "AC21692148": {
     "contest_id": "abc198",
     "language": "C++ (GCC 9.2.1)",
