@@ -1,4 +1,21 @@
 {
+  "CF112194052": {
+    "contest_id": 569,
+    "language": "GNU C++17",
+    "path": "codeforces\\569\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Music",
+    "problem_url": "https://codeforces.com/contest/569/problem/A",
+    "submission_id": "CF112194052",
+    "submission_url": "https://codeforces.com/contest/569/submission/112194052",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Apr/07/2021 10:55"
+  },
   "CF112328428": {
     "contest_id": 263,
     "language": "GNU C++17",
