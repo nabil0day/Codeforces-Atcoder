@@ -1,4 +1,20 @@
 {
+  "AC22312251": {
+    "contest_id": "abc140",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc140\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Password",
+    "problem_url": "https://atcoder.jp/contests/abc140/tasks/abc140_a",
+    "submission_id": "AC22312251",
+    "submission_url": "https://atcoder.jp/contests/abc140/submissions/22312251",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/04/2021 21:10"
+  },
   "AC22313643": {
     "contest_id": "abc133",
     "language": "C++ (GCC 9.2.1)",
