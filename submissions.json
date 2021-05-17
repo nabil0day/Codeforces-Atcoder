@@ -1,4 +1,20 @@
 {
+  "AC22697342": {
+    "contest_id": "abc105",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc105\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Cakes and Donuts",
+    "problem_url": "https://atcoder.jp/contests/abc105/tasks/abc105_b",
+    "submission_id": "AC22697342",
+    "submission_url": "https://atcoder.jp/contests/abc105/submissions/22697342",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/17/2021 22:38"
+  },
   "AC22697369": {
     "contest_id": "abc105",
     "language": "C++ (GCC 9.2.1)",
