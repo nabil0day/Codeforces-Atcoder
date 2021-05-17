@@ -1,4 +1,20 @@
 {
+  "AC22696821": {
+    "contest_id": "abc105",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc105\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AtCoder Crackers",
+    "problem_url": "https://atcoder.jp/contests/abc105/tasks/abc105_a",
+    "submission_id": "AC22696821",
+    "submission_url": "https://atcoder.jp/contests/abc105/submissions/22696821",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/17/2021 22:01"
+  },
   "AC22697342": {
     "contest_id": "abc105",
     "language": "C++ (GCC 9.2.1)",
