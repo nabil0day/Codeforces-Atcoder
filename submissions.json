@@ -1,4 +1,20 @@
 {
+  "AC22716764": {
+    "contest_id": "abc043",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc043\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Children and Candies (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_a",
+    "submission_id": "AC22716764",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/22716764",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "May/18/2021 21:15"
+  },
   "AC22716947": {
     "contest_id": "abc043",
     "language": "C++ (GCC 9.2.1)",
