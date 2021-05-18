@@ -1,4 +1,20 @@
 {
+  "AC22716947": {
+    "contest_id": "abc043",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc043\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Unhappy Hacking (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc043/tasks/abc043_b",
+    "submission_id": "AC22716947",
+    "submission_url": "https://atcoder.jp/contests/abc043/submissions/22716947",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "May/18/2021 21:22"
+  },
   "AC22717282": {
     "contest_id": "abc144",
     "language": "C++ (GCC 9.2.1)",
