@@ -1,4 +1,20 @@
 {
+  "AC23116473": {
+    "contest_id": "abc054",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc054\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "One Card Poker",
+    "problem_url": "https://atcoder.jp/contests/abc054/tasks/abc054_a",
+    "submission_id": "AC23116473",
+    "submission_url": "https://atcoder.jp/contests/abc054/submissions/23116473",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/01/2021 19:44"
+  },
   "AC23255072": {
     "contest_id": "abc204",
     "language": "C++ (GCC 9.2.1)",
