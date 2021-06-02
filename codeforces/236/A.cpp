@@ -1,35 +1,41 @@
-#include <iostream>
-#include <string>
-#include <algorithm>
- 
-using namespace std;
+/*****                                            
+ *                                                   __Bismillahir Rahmanir Rahim__
+ *                                          American International University Bangladesh (AIUB) 
+ *                                                         Hadiur Rahman Nabil
+                                                                 
+                                                               
+                                                          
+*****/
+#include <bits/stdc++.h>
 
+using namespace std;
+typedef long long ll;
  
- 
+
  
 int main()
 {
     string s;
-    int count=0;
+    ll count=0;
     cin>>s;
     sort(s.begin(),s.end());
- 
-for(int i=0;i<s.size();i++)
+
+for(ll i=0;i<s.size();i++)
 {
   if(s[i]!=s[i+1])
   {
     count++;
   }
 }
- 
+
 if(count%2==0)
- 
+
 {
   cout<< "CHAT WITH HER!\n" ;
 }
    else{
      cout<<"IGNORE HIM!\n";
    } 
- 
+
 }
  
