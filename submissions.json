@@ -1,4 +1,20 @@
 {
+  "CF119472006": {
+    "contest_id": 116,
+    "language": "GNU C++17",
+    "path": "codeforces\\116\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tram",
+    "problem_url": "https://codeforces.com/contest/116/problem/A",
+    "submission_id": "CF119472006",
+    "submission_url": "https://codeforces.com/contest/116/submission/119472006",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/14/2021 22:28"
+  },
   "CF119652862": {
     "contest_id": 69,
     "language": "GNU C++14",
