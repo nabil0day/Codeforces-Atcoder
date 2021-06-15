@@ -1,4 +1,20 @@
 {
+  "AC23501335": {
+    "contest_id": "abc057",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc057\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Remaining Time",
+    "problem_url": "https://atcoder.jp/contests/abc057/tasks/abc057_a",
+    "submission_id": "AC23501335",
+    "submission_url": "https://atcoder.jp/contests/abc057/submissions/23501335",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/16/2021 00:12"
+  },
   "AC23583631": {
     "contest_id": "abc206",
     "language": "C++ (GCC 9.2.1)",
