@@ -1,4 +1,20 @@
 {
+  "AC23622056": {
+    "contest_id": "abc206",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc206\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Savings",
+    "problem_url": "https://atcoder.jp/contests/abc206/tasks/abc206_b",
+    "submission_id": "AC23622056",
+    "submission_url": "https://atcoder.jp/contests/abc206/submissions/23622056",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/19/2021 19:42"
+  },
   "AC23705398": {
     "contest_id": "abc189",
     "language": "Python (3.8.2)",
