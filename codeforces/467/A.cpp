@@ -18,7 +18,7 @@ int main()
     {
        
         cin>>x>>y;
-        if(y-x>1)
+        if(y-x>=2)
         {
             count++;
         }
