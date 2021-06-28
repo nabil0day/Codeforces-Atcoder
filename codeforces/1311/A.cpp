@@ -8,31 +8,46 @@
 *****/
 #include <bits/stdc++.h>
 using namespace std;
-
-#define ll long long
-#define endl '\n'
-
-
+typedef long long ll;
   
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    ll t;
-    cin>>t;
-    while(t--)
-   {
-      ll a,b;
-      cin>>a>>b;
-      if(a==b)
-      {
-          cout<<"0\n";
-      } 
-      else{
-          cout<< 1+((a<b)^((b-a)&1))<<"\n";
-      }
-   }
-}
+    
+    
+   int t,a,b,x,y;
+   cin>>t;
+   for(int i=1;i<=t;i++)
+{
+  cin>>a>>b;   
+  if(b>a)
+  {
+    int x=b-a;
+    if(x%2==0)
+    {
+        cout<<"2\n";
+    }
+    else{
+        cout<<"1\n";
+    }
+  }
+    else if(a==b)
+    {
+        cout<<"0\n";
+    }
+  
+    else{
+        int y=a-b;
+        if(y%2==0)
+        {
+            cout<<"1\n";
+        }
+        else{
+            cout<<"2\n";
+        }
+    }
+
+  }
+} 
 
  
 
