@@ -1,4 +1,20 @@
 {
+  "AC24195776": {
+    "contest_id": "abc067",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc067\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sharing Cookies",
+    "problem_url": "https://atcoder.jp/contests/abc067/tasks/abc067_a",
+    "submission_id": "AC24195776",
+    "submission_url": "https://atcoder.jp/contests/abc067/submissions/24195776",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/13/2021 10:33"
+  },
   "AC24197095": {
     "contest_id": "abc067",
     "language": "C++ (GCC 9.2.1)",
