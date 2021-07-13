@@ -1,4 +1,20 @@
 {
+  "AC24209995": {
+    "contest_id": "abc152",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc152\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "AC or WA",
+    "problem_url": "https://atcoder.jp/contests/abc152/tasks/abc152_a",
+    "submission_id": "AC24209995",
+    "submission_url": "https://atcoder.jp/contests/abc152/submissions/24209995",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/13/2021 23:10"
+  },
   "AC24210056": {
     "contest_id": "abc152",
     "language": "C++ (GCC 9.2.1)",
