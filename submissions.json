@@ -1649,6 +1649,24 @@
     ],
     "timestamp": "Jun/26/2021 19:58"
   },
+  "CF122364376": {
+    "contest_id": 1220,
+    "language": "GNU C++17",
+    "path": "codeforces\\1220\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1220/problem/A",
+    "submission_id": "CF122364376",
+    "submission_url": "https://codeforces.com/contest/1220/submission/122364376",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/13/2021 22:27"
+  },
   "CF122372343": {
     "contest_id": 1095,
     "language": "GNU C++17",
