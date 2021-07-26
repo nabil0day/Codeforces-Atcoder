@@ -1,4 +1,20 @@
 {
+  "AC24569265": {
+    "contest_id": "abc044",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc044\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Tak and Hotels (ABC Edit)",
+    "problem_url": "https://atcoder.jp/contests/abc044/tasks/abc044_a",
+    "submission_id": "AC24569265",
+    "submission_url": "https://atcoder.jp/contests/abc044/submissions/24569265",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/26/2021 23:56"
+  },
   "AC24671211": {
     "contest_id": "abc212",
     "language": "C++ (GCC 9.2.1)",
