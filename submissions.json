@@ -1,4 +1,20 @@
 {
+  "AC24561481": {
+    "contest_id": "abc080",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc080\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Parking",
+    "problem_url": "https://atcoder.jp/contests/abc080/tasks/abc080_a",
+    "submission_id": "AC24561481",
+    "submission_url": "https://atcoder.jp/contests/abc080/submissions/24561481",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/26/2021 15:02"
+  },
   "AC24569265": {
     "contest_id": "abc044",
     "language": "C++ (GCC 9.2.1)",
