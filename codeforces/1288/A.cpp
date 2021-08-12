@@ -32,7 +32,7 @@ void solve()
 {
  ll n,d;
  cin>>n>>d;
- ll root =ceil(sqrt(d));
+ ll root =(sqrt(d));
  //cout<<root;
  
  if(root-1+(d+root-1)/root<=n)
