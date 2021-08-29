@@ -36,20 +36,13 @@ int main()
     freopen("output.txt", "w", stdout);
     #endif
 
-    int x,y;
-    char z;
-    cin>>x>>z>>y;
-    cout<<x;
-    if(y<=2)
-    {
-        cout<<"-\n";
-    }
-    else if(y>2 && y<7)
-         x=1;
-    else 
-    {
-        cout<<"+\n";
-    }
+int a, b;
+  char c;
+  cin >> a >> c >> b;
+  cout << a;
+  if (b <= 2) cout << "-" << endl;
+  else if (b > 2 && b < 7) a=1;
+  else cout << "+" << endl;
     
     return 0;
 }
