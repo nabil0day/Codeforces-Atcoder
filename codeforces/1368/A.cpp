@@ -28,27 +28,16 @@ const int MAX=100005;
 
 void solve()
 {
-ll a,b,n;
-cin>>a>>b>>n;
-ll ans=0;
-while(a<=n && b<=n)
-{
-  
-  if(a<b)
-    
-    a+=b;
-  
-  else 
-    b+=a;
-    ans++;
-}
-
-    cout<<ans<<"\n";
-  
-  
-
-  
-
+ll a, b, n;
+ cin >> a >> b >> n;
+		int ans = 0;
+		while (a <= n && b <= n) {
+			if (a < b) a += b;
+			else b += a;
+			ans++;
+		}
+		cout << ans << '\n';
+	
  
   }
 
