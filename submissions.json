@@ -1630,6 +1630,23 @@
     ],
     "timestamp": "Jun/18/2021 22:20"
   },
+  "CF128292816": {
+    "contest_id": 1493,
+    "language": "GNU C++17",
+    "path": "codeforces\\1493\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anti-knapsack",
+    "problem_url": "https://codeforces.com/contest/1493/problem/A",
+    "submission_id": "CF128292816",
+    "submission_url": "https://codeforces.com/contest/1493/submission/128292816",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/09/2021 01:17"
+  },
   "CF128428300": {
     "contest_id": 1527,
     "language": "GNU C++17",
