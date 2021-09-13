@@ -27,44 +27,26 @@ const int MAX=100005;
 
 void solve()
 {
-vector<ll>vi;
-ll n,count=0,sol=0;
-cin>>n;
-if(n%10!=0)
-{
-    vi.pb(n%10);
-}
-sol = n%10;
-n-=sol;
-if(n%100!=0)
-{
-    vi.pb(n%100);
-}
-sol=n%100;
-n-=sol;
-if(n%1000!=0)
-{
-     vi.pb(n%1000);
-}
-sol=n%1000;
-n-=sol;
 
-if(n%10000!=0)
-{
-      vi.pb(n%10000);
-}
-if(n>=10000 && n%10000==0)
-{
-      vi.pb(n);
-}
-
-cout<<vi.size()<<"\n";
+string s;
+ll count = 0;
+cin>>s;
+for(int i=0;i<s.size();i++){
+            if(s[i]>='1')
+                count++;
+        }
+        cout<<count<<"\n";
+        for(int i=0;i<s.size();i++){
+            if(s[i]>='1'){
+                cout<<s[i];
+                for(int j=i+1;j<s.size();j++){
+                    cout<<"0";
+                }
+                cout<<" ";
+            }
+        }
+        cout<<"\n";
  
-for(int i=0; i<vi.size(); i++)
-{
-      cout<<vi[i]<<" ";
-}
-
 }
     
 
