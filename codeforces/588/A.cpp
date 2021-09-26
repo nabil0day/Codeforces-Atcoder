@@ -38,7 +38,7 @@ int main()
     #endif
     ll t,sum=0;
     cin>>t;
-    ll kom;
+    ll kom = MAX;
     while(t--)
     {
     ll a,p;
