@@ -1,4 +1,22 @@
 {
+  "CF130279231": {
+    "contest_id": 1579,
+    "language": "GNU C++17",
+    "path": "codeforces\\1579\\E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Permutation Minimization by Deque",
+    "problem_url": "https://codeforces.com/contest/1579/problem/E1",
+    "submission_id": "CF130279231",
+    "submission_url": "https://codeforces.com/contest/1579/submission/130279231",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Sep/29/2021 21:08"
+  },
   "CF130392747": {
     "contest_id": 935,
     "language": "GNU C++17",
