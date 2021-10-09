@@ -1,4 +1,20 @@
 {
+  "AC26467270": {
+    "contest_id": "zone2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\zone2021\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "UFO Invasion",
+    "problem_url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_a",
+    "submission_id": "AC26467270",
+    "submission_url": "https://atcoder.jp/contests/zone2021/submissions/26467270",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/09/2021 19:51"
+  },
   "AC26709225": {
     "contest_id": "abc223",
     "language": "C++ (GCC 9.2.1)",
