@@ -1,4 +1,22 @@
 {
+  "CF132344683": {
+    "contest_id": 1113,
+    "language": "GNU C++17",
+    "path": "codeforces\\1113\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sasha and His Trip",
+    "problem_url": "https://codeforces.com/contest/1113/problem/A",
+    "submission_id": "CF132344683",
+    "submission_url": "https://codeforces.com/contest/1113/submission/132344683",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/18/2021 18:22"
+  },
   "CF132465929": {
     "contest_id": 510,
     "language": "GNU C++17",
