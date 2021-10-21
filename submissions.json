@@ -1,4 +1,20 @@
 {
+  "AC26715530": {
+    "contest_id": "abc133",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc133\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "T or T",
+    "problem_url": "https://atcoder.jp/contests/abc133/tasks/abc133_a",
+    "submission_id": "AC26715530",
+    "submission_url": "https://atcoder.jp/contests/abc133/submissions/26715530",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/21/2021 14:19"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
