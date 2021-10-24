@@ -1,4 +1,21 @@
 {
+  "CF132840478": {
+    "contest_id": 267,
+    "language": "GNU C++17",
+    "path": "codeforces\\267\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtractions",
+    "problem_url": "https://codeforces.com/contest/267/problem/A",
+    "submission_id": "CF132840478",
+    "submission_url": "https://codeforces.com/contest/267/submission/132840478",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Oct/24/2021 13:11"
+  },
   "CF132884548": {
     "contest_id": 1582,
     "language": "GNU C++17",
