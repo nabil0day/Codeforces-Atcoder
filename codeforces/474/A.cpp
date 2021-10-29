@@ -40,29 +40,30 @@ int main()
     //freopen("input.txt", "r", stdin);
     //freopen("output.txt", "w", stdout);
     #endif
-    
-    int a;
-    string s,str("qwertyuiopasdfghjkl;zxcvbnm,./");
+
+    string s,str="qwertyuiopasdfghjkl;zxcvbnm,./";
     char x;
     cin>>x>>s;
-    if(x=='R')
+    for(int i=0;i<(int)s.length();i++)
     {
-        for(int i=0;i<s.length();i++)
+        for(int j=0;j<(int)str.length();j++)
         {
-           x=str.find(s[i]);
-           cout<<str[x-1];
+            if(s[i]==str[j])
+            {
+                if(x=='R')
+                {
+                    s[i]=str[j-1];
+                }
+                else
+                {
+                    s[i]=str[j+1];
+                }
+                break;
+            }
         }
+        
     }
-    else{
-         for(int i=0;i<s.length();i++)
-        {
-           x=str.find(s[i]);
-           cout<<str[x+1];
-        }
-
-    }
-    cout<<"\n";
-
+    cout<<s<<"\n";
 
 
 
