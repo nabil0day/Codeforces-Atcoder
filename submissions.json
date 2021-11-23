@@ -1,4 +1,20 @@
 {
+  "CF136645090": {
+    "contest_id": 1610,
+    "language": "GNU C++17",
+    "path": "codeforces\\1610\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anti Light's Cell Guessing",
+    "problem_url": "https://codeforces.com/contest/1610/problem/A",
+    "submission_id": "CF136645090",
+    "submission_url": "https://codeforces.com/contest/1610/submission/136645090",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/23/2021 21:17"
+  },
   "CF136855136": {
     "contest_id": 1611,
     "language": "GNU C++17",
