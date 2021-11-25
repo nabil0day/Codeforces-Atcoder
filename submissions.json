@@ -1,4 +1,22 @@
 {
+  "CF136872508": {
+    "contest_id": 1611,
+    "language": "GNU C++17",
+    "path": "codeforces\\1611\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Team Composition: Programmers and Mathematicians",
+    "problem_url": "https://codeforces.com/contest/1611/problem/B",
+    "submission_id": "CF136872508",
+    "submission_url": "https://codeforces.com/contest/1611/submission/136872508",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2021 21:09"
+  },
   "CF136901998": {
     "contest_id": 1611,
     "language": "GNU C++17",
