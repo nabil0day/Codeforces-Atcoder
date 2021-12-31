@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Dec/31/2021 20:34"
   },
+  "AC28266262": {
+    "contest_id": "abc233",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc233\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "A Reverse",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_b",
+    "submission_id": "AC28266262",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28266262",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/31/2021 20:42"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
