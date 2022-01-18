@@ -1055,6 +1055,22 @@
     ],
     "timestamp": "Dec/31/2021 20:42"
   },
+  "AC28615203": {
+    "contest_id": "abc234",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc234\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Longest Segment",
+    "problem_url": "https://atcoder.jp/contests/abc234/tasks/abc234_b",
+    "submission_id": "AC28615203",
+    "submission_url": "https://atcoder.jp/contests/abc234/submissions/28615203",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/18/2022 13:17"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
