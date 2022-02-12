@@ -38,8 +38,8 @@ int main()
 {
     FAST;
     #ifndef ONLINE_JUDGE
-    //freopen("input.txt", "r", stdin);
-    //freopen("output.txt", "w", stdout);
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
     #endif
   
   ll t;
@@ -51,12 +51,12 @@ int main()
   vector<ll>v(n);
   for(int i=0;i<n;i++)
   cin>>v[i];
-  if(is_sorted(v.begin(),v.end()))
+  if(!(is_sorted(v.begin(),v.end())))
   {
-    cout<<"NO\n";
+    cout<<"YES\n";
   }
   else{
-    cout<<"YES\n";
+    cout<<"NO\n";
   }
   }
   return 0;
