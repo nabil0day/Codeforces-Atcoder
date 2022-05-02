@@ -5889,6 +5889,19 @@
     ],
     "timestamp": "Mar/08/2022 22:21"
   },
+  "CF155604555": {
+    "contest_id": 1674,
+    "language": "GNU C++17",
+    "path": "codeforces\\1674\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Number Transformation",
+    "problem_url": "https://codeforces.com/contest/1674/problem/A",
+    "submission_id": "CF155604555",
+    "submission_url": "https://codeforces.com/contest/1674/submission/155604555",
+    "tags": [],
+    "timestamp": "May/02/2022 20:46"
+  },
   "CF155645130": {
     "contest_id": 1674,
     "language": "GNU C++17",
