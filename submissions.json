@@ -5888,5 +5888,18 @@
       "math"
     ],
     "timestamp": "Mar/08/2022 22:21"
+  },
+  "CF155645130": {
+    "contest_id": 1674,
+    "language": "GNU C++17",
+    "path": "codeforces\\1674\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dictionary",
+    "problem_url": "https://codeforces.com/contest/1674/problem/B",
+    "submission_id": "CF155645130",
+    "submission_url": "https://codeforces.com/contest/1674/submission/155645130",
+    "tags": [],
+    "timestamp": "May/02/2022 21:26"
   }
 }
